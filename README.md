@@ -16,13 +16,8 @@ I'm using this space to **practice**, **track my progress**, and improve my **we
 
 Here are the challenges I've completed so far:
 
-1. ✅ **[Build a Loan Qualification Checker App](loanQualificationChecker.js)**  
-2. ✅ **[Build a Leap Year Calculator](leapYearCalculator.js)**  
-3. ✅ **[Implement the Truncate a String Algorithm](truncateString.js)**  
-4. ✅ **[Build a Shopping List Items App](shoppingList.js)**  
-5. ✅ **[Build a Celsius to Fahrenheit Converter](celsiusToFahrenheit.js)**  
-6. ✅ **[Build a Lunch Picker Program](lunchPicker.js)**  
-7. ✅ **[Build a String Reverser](stringReverser.js)**
+1. ✅ **[Buid a Shoping List Manager](shopingListManager.js)**
+2. 
 
 ---
 
