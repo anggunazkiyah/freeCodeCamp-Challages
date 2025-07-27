@@ -17,7 +17,7 @@ I'm using this space to **practice**, **track my progress**, and improve my **we
 Here are the challenges I've completed so far:
 
 1. ✅ **[Buid a Shoping List Manager](shopingListManager.js)**
-2. **[Build a Celcius to Farhenheit Converter](celciusToFarhenheit.js)**
+2. **[Build a Celcius to Farhenheit Converter](celciusToFahrenheit.js)**
 
 ---
 
