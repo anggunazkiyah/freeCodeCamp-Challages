@@ -1,14 +1,41 @@
-# 📘 freeCodeCamp Challenges
-___
+# 📘 freeCodeCamp JavaScript Challenges
 
-This repository contains my solutions to various challenges from freeCodeCamp. I'm using this space to practice and track my progress as I learn web development.
+This repository contains my solutions to various **JavaScript challenges** from the  
+[freeCodeCamp Full Stack Web Development Certification](https://www.freecodecamp.org/learn).  
+I'm using this space to **practice**, **track my progress**, and improve my **web development skills** — especially in **vanilla JavaScript**.
 
-## JavaScript Challages
+---
 
-- [Build a Loan Qualification Checker App](loanQualificationChecker.js.txt)
-- [Build a Leap Year Calculator](leapCalendar.js.txt)
-- [Implement the Truncate a String Algorithm](truncateStringAlgorithm.js.txt)
-- [Build a Shopping List Items](buildShoppingListItems.js.txt)
-- [Build a Celsius to Fahrenheit Converter](convertCtoF.js.txt)
-- [Build a Lunch Picker Program](lunchPickerProgram.js.txt)
-- [Build a String Inventer](stringInventer.js.txt)
+## 🛠 Language Used
+
+- JavaScript (Vanilla ES6+)
+
+---
+
+## 🚀 Challenge List
+
+Here are the challenges I've completed so far:
+
+1. ✅ **[Build a Loan Qualification Checker App](./loanQualificationChecker.js)**  
+2. ✅ **[Build a Leap Year Calculator](./leapYearCalculator.js)**  
+3. ✅ **[Implement the Truncate a String Algorithm](./truncateString.js)**  
+4. ✅ **[Build a Shopping List Items App](./shoppingList.js)**  
+5. ✅ **[Build a Celsius to Fahrenheit Converter](./celsiusToFahrenheit.js)**  
+6. ✅ **[Build a Lunch Picker Program](./lunchPicker.js)**  
+7. ✅ **[Build a String Reverser](./stringReverser.js)**
+
+---
+
+## 📚 About This Repo
+
+Each `.js` file contains the complete solution for the respective challenge.  
+I focus on writing **clean**, **commented**, and **readable code**, following best practices.
+
+This repository will continue to grow as I complete more challenges and projects.
+
+---
+
+## ✨ Inspired By
+
+- [freeCodeCamp Full Stack Web Development Certification](https://www.freecodecamp.org/learn)
+- Personal commitment to become a professional web developer
