@@ -19,6 +19,7 @@ Here are the challenges I've completed so far:
 1. ✅ **[Buid a Shoping List Manager](shopingListManager.js)**
 2. **[Build a Celcius to Farhenheit Converter](celciusToFahrenheit.js)**
 3. **[Build a Leap Year Calendar](leapYearCalendar.js)**
+4. **[Build a Loan Qualification Checker](loanQualificationChecker.js)**
 
 ---
 
