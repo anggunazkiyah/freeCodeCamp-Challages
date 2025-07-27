@@ -10,4 +10,4 @@ This repository contains my solutions to various challenges from freeCodeCamp. I
 - [Implement the Truncate a String Algorithm](truncateStringAlgorithm.js.txt)
 - [Build a Shopping List Items](buildShoppingListItems.js.txt)
 - [Build a Celsius to Fahrenheit Converter](convertCtoF.js.txt)
-- [Build a Lunch Picker Program](luchPickerProgram.js.txt)
+- [Build a Lunch Picker Program](lunchPickerProgram.js.txt)
