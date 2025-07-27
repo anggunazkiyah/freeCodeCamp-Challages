@@ -21,6 +21,7 @@ Here are the challenges I've completed so far:
 3. **[Build a Leap Year Calendar](leapYearCalendar.js)**
 4. **[Build a Loan Qualification Checker](loanQualificationChecker.js)**
 5. **[Build a Lunch Picker Program](lunchPickerProgram.js)**
+6. **[Build a String Inventer](stringInventer.js)**
 
 ---
 
