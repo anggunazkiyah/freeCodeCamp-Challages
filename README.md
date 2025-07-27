@@ -17,12 +17,12 @@ I'm using this space to **practice**, **track my progress**, and improve my **we
 Here are the challenges I've completed so far:
 
 1. ✅ **[Buid a Shoping List Manager](shopingListManager.js)**
-2. **[Build a Celcius to Farhenheit Converter](celciusToFahrenheit.js)**
-3. **[Build a Leap Year Calendar](leapYearCalendar.js)**
-4. **[Build a Loan Qualification Checker](loanQualificationChecker.js)**
-5. **[Build a Lunch Picker Program](lunchPickerProgram.js)**
-6. **[Build a String Inventer](stringInventer.js)**
-7. **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
+2. ✅ **[Build a Celcius to Farhenheit Converter](celciusToFahrenheit.js)**
+3. ✅ **[Build a Leap Year Calendar](leapYearCalendar.js)**
+4. ✅ **[Build a Loan Qualification Checker](loanQualificationChecker.js)**
+5. ✅ **[Build a Lunch Picker Program](lunchPickerProgram.js)**
+6. ✅ **[Build a String Inventer](stringInventer.js)**
+7. ✅ **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
 
 ---
 
