@@ -11,3 +11,4 @@ This repository contains my solutions to various challenges from freeCodeCamp. I
 - [Build a Shopping List Items](buildShoppingListItems.js.txt)
 - [Build a Celsius to Fahrenheit Converter](convertCtoF.js.txt)
 - [Build a Lunch Picker Program](lunchPickerProgram.js.txt)
+- [Build a String Inventer](stringInventer.js.txt)
