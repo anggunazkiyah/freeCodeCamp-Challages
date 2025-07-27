@@ -22,6 +22,7 @@ Here are the challenges I've completed so far:
 4. **[Build a Loan Qualification Checker](loanQualificationChecker.js)**
 5. **[Build a Lunch Picker Program](lunchPickerProgram.js)**
 6. **[Build a String Inventer](stringInventer.js)**
+7. **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
 
 ---
 
