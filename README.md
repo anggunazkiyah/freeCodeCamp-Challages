@@ -10,6 +10,7 @@ I'm using this space to **practice**, **track my progress**, and improve my **we
 
 - JavaScript (Vanilla ES6+)
 - HTML
+- CSS
 
 ---
 
@@ -29,7 +30,9 @@ Here are the challenges I've completed so far:
 
 ### HTML Challenges
 1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
-   
+
+### HTML & CSS Challenges
+1. ✅ **[Build a Design Registration Form](https://github.com/anggunazkiyah/freeCodeCamp-Challages/tree/main/registration%20form%20design)**
 
 ---
 
