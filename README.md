@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various **challenges** from the  
 [freeCodeCamp Full Stack Web Development Certification](https://www.freecodecamp.org/learn).  
-I'm using this space to **practice**, **track my progress**, and improve my **web development skills** — especially in **vanilla JavaScript**.
+I'm using this space to **practice**, **track my progress**, and improve my **web development skills**.
 
 ---
 
@@ -17,6 +17,8 @@ I'm using this space to **practice**, **track my progress**, and improve my **we
 
 Here are the challenges I've completed so far:
 
+### JavaScript Challenges
+
 1. ✅ **[Buid a Shoping List Manager](shopingListManager.js)**
 2. ✅ **[Build a Celcius to Farhenheit Converter](celciusToFahrenheit.js)**
 3. ✅ **[Build a Leap Year Calendar](leapYearCalendar.js)**
@@ -24,7 +26,9 @@ Here are the challenges I've completed so far:
 5. ✅ **[Build a Lunch Picker Program](lunchPickerProgram.js)**
 6. ✅ **[Build a String Inventer](stringInventer.js)**
 7. ✅ **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
-8. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
+
+### HTML Challenges
+1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
    
 
 ---
