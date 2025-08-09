@@ -28,6 +28,7 @@ Here are the challenges I've completed so far:
 6. ✅ **[Build a String Inventer](stringInventer.js)**
 7. ✅ **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
 8. ✅ **[Build a Boolean Check Function](booleanCheckFunction.js)**
+9. ✅ **[Build a Confirm the Ending Tool](confirmTheEndingTool.js)**
 
 ### HTML Challenges
 1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
