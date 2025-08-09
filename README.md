@@ -27,6 +27,7 @@ Here are the challenges I've completed so far:
 5. ✅ **[Build a Lunch Picker Program](lunchPickerProgram.js)**
 6. ✅ **[Build a String Inventer](stringInventer.js)**
 7. ✅ **[Build a Truncate String Algorithm](truncateStringAlgorithm.js)**
+8. ✅ **[Build a Boolean Check Function](booleanCheckFunction.js)**
 
 ### HTML Challenges
 1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
