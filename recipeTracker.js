@@ -1,8 +1,6 @@
 /**
  * Recipe Management System
  * A simple JavaScript application for managing and calculating recipe metrics
- * Author: [Your Name]
- * Date: [Current Date]
  */
 
 // Initialize empty array to store all recipes
@@ -88,22 +86,20 @@ console.log(recipe1TotalIngredients); // Display ingredient count
 const recipe1DifficultyLevel = getDifficultyLevel(recipe1.cookingTime);
 console.log(recipe1DifficultyLevel); // Display difficulty level
 
-// Update recipe1 object with calculated values
+// Recipe1 object with calculated values
 recipe1.averageRating = getAverageRating(recipe1.ratings);
 recipe1.totalIngredients = getTotalIngredients(recipe1.ingredients);
 recipe1.difficultyLevel = getDifficultyLevel(recipe1.cookingTime);
 
-// Update recipe2 object with calculated values
+// Recipe2 object with calculated values
 recipe2.averageRating = getAverageRating(recipe2.ratings);
 recipe2.totalIngredients = getTotalIngredients(recipe2.ingredients);
 recipe2.difficultyLevel = getDifficultyLevel(recipe2.cookingTime);
 
-// Update recipe3 object with calculated values
+// Recipe3 object with calculated values
 recipe3.averageRating = getAverageRating(recipe3.ratings);
 recipe3.totalIngredients = getTotalIngredients(recipe3.ingredients);
 recipe3.difficultyLevel = getDifficultyLevel(recipe3.cookingTime);
-
-// Note: Duplicate code block removed for recipe3 (was duplicated in original)
 
 // Display the complete recipes array with all calculated values
 console.log(recipes);
