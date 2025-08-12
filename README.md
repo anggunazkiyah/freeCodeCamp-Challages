@@ -30,6 +30,7 @@ Here are the challenges I've completed so far:
 8. ✅ **[Build a Boolean Check Function](booleanCheckFunction.js)**
 9. ✅ **[Build a Confirm the Ending Tool](confirmTheEndingTool.js)**
 10. ✅ **[Build a Recipe Tracker](recipeTracker.js)**
+11. ✅ **[Build a Quiz Game](quizGame.js)**
 
 ### HTML Challenges
 1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
