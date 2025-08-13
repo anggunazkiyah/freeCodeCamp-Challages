@@ -31,6 +31,7 @@ Here are the challenges I've completed so far:
 9. ✅ **[Build a Confirm the Ending Tool](confirmTheEndingTool.js)**
 10. ✅ **[Build a Recipe Tracker](recipeTracker.js)**
 11. ✅ **[Build a Quiz Game](quizGame.js)**
+12. ✅ **[Build a Record Collection](recordCollection.js)**
 
 ### HTML Challenges
 1. ✅ **[Build a Heart Icon](./buildHeartIcon.html)**
